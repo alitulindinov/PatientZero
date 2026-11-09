@@ -45,7 +45,7 @@ Different strings can have the same hash because of hash collisions. Therefore, 
 The two states are whether a person is tested or not tested. If a person is not tested, all their children must be tested. If the person is tested, each child can be tested or not tested, depending on which option has the lower cost. A greedy approach does not always find the minimum cost because choosing one person can affect the best choices for their neighbours.
 
 ## AI use
-
+I used ChatGPT occasionally to clarify some algorithm concepts and understand a few coding errors. Most of the implementation and testing were done by myself. I used the provided Check.java tool to verify my solutions.
 
 ## Timing (Mission 7)
 
